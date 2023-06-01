@@ -1,0 +1,3 @@
+netbin is a very simple dox sharing site, all doxes must be reviewed by an admin, submit a paste and very shortly an admin will upload your paste to the site. 
+
+MAKE SURE TO REFRESH PAGE TO RESUBMIT A PASTE
